@@ -1,0 +1,11 @@
+# Project
+node_modules
+dist
+build
+
+# IDE
+.vscode
+.idea
+
+# Config
+.env

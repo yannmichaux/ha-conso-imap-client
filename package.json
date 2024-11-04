@@ -1,0 +1,18 @@
+{
+  "name": "ha-conso-imap-client",
+  "version": "1.0.0",
+  "description": "IMAP client to obtain electricity consumption and send it to HA",
+  "main": "src/main.ts",
+  "repository": "git@github.com:yannmichaux/ha-conso-imap-client.git",
+  "author": "Yann Michaux <yann.michaux1@gmail.com>",
+  "license": "GPL-3.0",
+  "private": false,
+  "devDependencies": {
+    "@eslint/js": "^9.14.0",
+    "@types/eslint__js": "^8.42.3",
+    "eslint": "^9.14.0",
+    "prettier": "^3.3.3",
+    "typescript": "^5.6.3",
+    "typescript-eslint": "^8.13.0"
+  }
+}
